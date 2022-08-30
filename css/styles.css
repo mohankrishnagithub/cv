@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+  text-align: center;
+  /*font-family: "comic sans ms",verdana;*/
+  font-family:verdana;
+}
+
+
+
+.middle-container{
+  background-color: white;
+}
+
+
+.one{
+  background-color:#EAF6F6;
+  line-height: 2;
+}
+
+
+.heading_one{
+width: auto;
+margin: 0 auto 0 auto;
+padding-top: 150px;
+font-family: DynaPuff,sans-serif;
+color: #66BFBF;
+font-size: 55px;
+
+}
+.pro {
+  font-size: 2.5rem;
+  margin:15px auto 0 auto;
+  font-family: Sacramento,sans-serif;
+  color: #66BFBF;
+  font-size: 50px;
+}
+
+.top_cloud{
+  position: absolute;
+  right: 150px;
+  top: 15px;
+
+}
+.bottom_cloud{
+  position: absolute;
+  top: 80px;
+}
+
+.profile{
+  height: auto;
+  width: 200px;
+  border-radius: 100%;
+  margin-top: 18px;
+
+}
+
+
+.temporary{font-size: 50px;}
+
+.globe1{
+height: auto;
+width: 20%;
+float: left;
+margin-right: 30px;
+
+}
+
+.globe2{
+  height: auto;
+  width: 20%;
+  float: right;
+  margin-left: 20px;
+
+}
+
+.skill-row{
+width: 45%;
+margin: 100px auto 100px auto;
+line-height: 2;
+text-align: left;
+
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Montserrat,Arial;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.border{height: 0;
+        margin-top: 50px;
+        border-style: none none dotted;
+        border-bottom-width: 5px;
+        width: 40px;
+        border-color: gray;
+
+        }
+
+/*  */
+
+.bottom-container{background-color: #66BFBF;
+                  height: 160px;
+                  }
+.footer-link{margin: 0 10px 0 10px;
+            color: #11999E;
+            font-family: Montserrat,sans-serif;
+            font-weight: 1000;
+            }
+
+.footer-link:hover{color: white;}
+
+
+.contact-me{
+            line-height: 2;
+           }
